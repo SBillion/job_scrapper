@@ -1,0 +1,1 @@
+# Script placeholder pour générer le fichier demandé
